@@ -3,7 +3,7 @@ package main
 import "fmt"
 import "strings"
 import "os"
-import "os/exec"
+// import "os/exec"
 import "golang.org/x/oauth2"
 import "github.com/google/go-github/github"
 
